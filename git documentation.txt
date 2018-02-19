@@ -23,5 +23,16 @@ Create an account using the email-id
 As the account is created, go back to github application
 In the application sign in with the acccount by clicking on options in the file menu at the top.
 So now the github desktop application is in sync with github.com
-
+In github application the current repository will be the repository on which you are working
+So next to that there will be an option 'Publish Repository'
+click on Publish repository 
+after clicking on it a popup box will appear
+it will show the name of repository
+Untick 'keep this code private' (you will need to subscribe to keep the code private)
+After that click on 'Publish repository'
+now the file has been uploaded to github by your account
+now sign in into account by which the file had been uploaded
+After signing in go to your repository option
+it will show all the changes made and commited by the desktop application
  
+So all you need to do is after making any change in the file, open the github application, commit all the changes to master and then publish it to online github account.
