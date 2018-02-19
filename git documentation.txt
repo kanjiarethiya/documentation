@@ -1,0 +1,19 @@
+Install the github desktop application
+After completing installation, open it
+On opening the application a screen will appear with 3 different options to select
+Click on create new repository 
+Enter the name of the repository
+In description, enter details about the project for which you want to create a repository
+Enter the location where you wish to save the git file of repository(Example: local disk C > Final git)
+Untick 'initialize this repository with a README'
+Click on Create Repository.
+A file will be created in the folder(final git) which you had selected while creating repository
+In that same folder(final git), copy the document for which you are creating the Repository(Example: git documentation.txt)
+As soon as the folder is added, it will appear in the github application.
+now open the github application.
+here you can see changes column, saying about the addition of new folder(final documentation.txt)
+now yo need to approve the changes by commiting it
+So at bottom of the screen there is summery option
+in which you need to add details(Example: new folder for documentation created) about new folder and then click on commit to master.
+As we click on commit to master, the file gets saved in repository.
+ 
