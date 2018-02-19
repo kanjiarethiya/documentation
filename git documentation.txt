@@ -16,4 +16,12 @@ now yo need to approve the changes by commiting it
 So at bottom of the screen there is summery option
 in which you need to add details(Example: new folder for documentation created) about new folder and then click on commit to master.
 As we click on commit to master, the file gets saved in repository.
+
+Now we need to upload this file online on github.com
+Open github.com
+Create an account using the email-id
+As the account is created, go back to github application
+In the application sign in with the acccount by clicking on options in the file menu at the top.
+So now the github desktop application is in sync with github.com
+
  
