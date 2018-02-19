@@ -1,0 +1,54 @@
+Install the github desktop application
+After completing installation, open it
+On opening the application a screen will appear with 3 different options to select
+Click on create new repository 
+Enter the name of the repository
+In description, enter details about the project for which you want to create a repository
+Enter the location where you wish to save the git file of repository(Example: local disk C > Final git)
+Untick 'initialize this repository with a README'
+Click on Create Repository.
+A file will be created in the folder(final git) which you had selected while creating repository
+In that same folder(final git), copy the document for which you are creating the Repository(Example: git documentation.txt)
+As soon as the folder is added, it will appear in the github application.
+now open the github application.
+here you can see changes column, saying about the addition of new folder(final documentation.txt)
+now yo need to approve the changes by commiting it
+So at bottom of the screen there is summery option
+in which you need to add details(Example: new folder for documentation created) about new folder and then click on commit to master.
+As we click on commit to master, the file gets saved in repository.
+
+Now we need to upload this file online on github.com
+Open github.com
+Create an account using the email-id
+As the account is created, go back to github application
+In the application sign in with the acccount by clicking on options in the file menu at the top.
+So now the github desktop application is in sync with github.com
+In github application the current repository will be the repository on which you are working
+So next to that there will be an option 'Publish Repository'
+click on Publish repository 
+after clicking on it a popup box will appear
+it will show the name of repository
+Untick 'keep this code private' (you will need to subscribe to keep the code private)
+After that click on 'Publish repository'
+now the file has been uploaded to github by your account
+now sign in into account by which the file had been uploaded
+After signing in go to your repository option
+it will show all the changes made and commited by the desktop application
+ 
+So all you need to do is after making any change in the file, open the github application, commit all the changes to master and then publish it to online github account.
+
+
+Branching
+Branching is to keep the original file safe
+now if you need to do any changes in the original file(documentation)
+it will be lways better to create a branch and then work in the branch
+so now any changes you make will be done in the branch keeping master(documentaton) at safe side
+
+to create a branch open the application
+after opening the application in the centre  top there will be an option showing about the current branch
+at present it will be showing current branc has master
+click on that option
+a box will appear with 'filter' written in it
+so clickon that option 
+after clicking you will need to enter the name of the branch(documentation01)
+then click on Create new branch.
