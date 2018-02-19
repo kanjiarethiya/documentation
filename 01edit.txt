@@ -52,3 +52,7 @@ a box will appear with 'filter' written in it
 so clickon that option 
 after clicking you will need to enter the name of the branch(documentation01)
 then click on Create new branch.
+now edit01 is the new branch seperate from the master
+
+also after change in branch 
+if you are sure about the changes, you can merge them to master

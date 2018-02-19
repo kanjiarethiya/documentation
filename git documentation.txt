@@ -36,3 +36,21 @@ After signing in go to your repository option
 it will show all the changes made and commited by the desktop application
  
 So all you need to do is after making any change in the file, open the github application, commit all the changes to master and then publish it to online github account.
+
+
+Branching
+Branching is to keep the original file safe
+now if you need to do any changes in the original file(documentation)
+it will be lways better to create a branch and then work in the branch
+so now any changes you make will be done in the branch keeping master(documentaton) at safe side
+
+to create a branch open the application
+after opening the application in the centre  top there will be an option showing about the current branch
+at present it will be showing current branc has master
+click on that option
+a box will appear with 'filter' written in it
+so clickon that option 
+after clicking you will need to enter the name of the branch(documentation01)
+then click on Create new branch.
+
+
